@@ -1,5 +1,5 @@
-### Hi there 👋
-Dr.Nilofer Shaikh, Ph.D. Bioinformaics, YouTuber ("Future Omics Bioinformatics Made Easy" channel) https://www.youtube.com/@Bioinformatics_Made_Easy and teacher of Bioinformatics. Creates educational video (>161 videos) contents about data science, machine learning and bioinformatics on YouTube. Also published research/review articles in peer-review journals at the interface of machine learning, biology and chemistry for exploring the underlying multi-omics data analysis where such understanding holds great implication for drug discovery.
+### Hi there 𝙸'𝚖 Dr.Nilofer Shaikh,👋
+Ph.D. Bioinformaics, YouTuber ("Future Omics Bioinformatics Made Easy" channel) https://www.youtube.com/@Bioinformatics_Made_Easy and teacher of Bioinformatics. Creates educational video (>161 videos) contents about data science, machine learning and bioinformatics on YouTube. Also published research/review articles in peer-review journals at the interface of machine learning, biology and chemistry for exploring the underlying multi-omics data analysis where such understanding holds great implication for drug discovery.
 <!--
 **futureomics/futureomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
