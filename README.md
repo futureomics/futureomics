@@ -1,9 +1,10 @@
 ### Hi there 👋 I'm Dr.Nilofer Shaikh,
 <h1 align="center">Hi 👋, I'm Dr. Nilofer Shaikh</h1>
 <h3 align="center">With a passion for unravelling the complexities of multi-omics biology data my research spans across various biological domains using a bioinformatics approach</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/futureomics/futureomics/assets/86778349/81003cdf-38cd-49a8-85eb-c95e5697155e)
+">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=futureomics&label=Profile%20views&color=0e75b6&style=flat](https://assets-v2.lottiefiles.com/a/208c84c2-116f-11ee-b815-371ebca637ac/WZmaEzdbtF.gif)" alt="futureomics" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=futureomics&label=Profile%20views&color=0e75b6&style=flat]" alt="futureomics" /> </p>
 
 - 🔭 I’m currently working on [Bioinformatics programing](https://github.com/futureomics)
 
