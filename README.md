@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dr. Nilofer Shaikh</h1>
-<h3 align="center">With a passion for unravelling the complexities of multi-omics biology data my research spans across various biological domains using a bioinformatics approach</h3>
+<h3 align="center">Greetings! I am Nilofer Shaikh, a dedicated PhD scholar in Bioinformatics at MIT ADT University. With a passion for unraveling the complexities of cancer biology, my research spans across various domains, focusing on Cancer, Drug Designing, Data Mining, Database Designing, Genomics, Metabolomics, Cancer Informatics, Transcriptomics, and Big Data Analysis. 🚀 As a member of the scientific community, I am enthusiastic about collaborative efforts and knowledge exchange. Feel free to connect with me </h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
